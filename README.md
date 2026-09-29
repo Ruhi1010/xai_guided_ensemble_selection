@@ -1,5 +1,3 @@
-
-
 # Proposed Framework: Explanation Guided Ensemble Selection (XGES)
 
 ## Input
